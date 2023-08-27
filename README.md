@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **UsahaYuk**
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Mobile Development**
 
 - 📫 How to reach me **ryanandrayadi0@gmail.com**
 
