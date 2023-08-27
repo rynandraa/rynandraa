@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ryan Andrayadi Kusyanto</h1>
 <h3 align="center">Passionate Learner in Android Development</h3>
 
-- 🔭 I’m currently working on **UsahaYuk**
 
 - 🌱 I’m currently learning **Mobile Development**
 
