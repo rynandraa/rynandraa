@@ -2,7 +2,7 @@
 <h3 align="center">Passionate Learner in Android Development</h3>
 
 
-- 🌱 I’m currently learning **Mobile Development**
+- 🌱 I’m currently learning **Web Development with Django and Django REST Framework** 🐍
 
 - 📫 How to reach me **ryanandrayadi0@gmail.com**
 
